@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": true, "title": "json-server", "author": "typicode" }
+    { "id": true, "": "", "": "" }
   ],
   "post2": 
     {"success":true,"error":"Sorry, something went wrong. Please try again later.","close_dialog":false}
