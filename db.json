@@ -2,8 +2,9 @@
   "posts": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "post2": [
+    {"success":true,"error":"Sorry, something went wrong. Please try again later.","close_dialog":true}
   ],
   "profile": { "name": "typicode" }
 }
+
