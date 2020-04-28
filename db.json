@@ -3,7 +3,7 @@
     { "id": true, "title": "json-server", "author": "typicode" }
   ],
   "post2": [
-    {"success":true,}
+    {"success":true,"error":"Sorry, something went wrong. Please try again later.","close_dialog":false}
   ],
   "profile": { "name": "typicode" }
 }
